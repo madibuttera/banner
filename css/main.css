@@ -22,6 +22,7 @@ html {
 .img-flex {
   display: block;
   width: 100%;
+  position: absolute;
 }
 
 .banner {
@@ -29,5 +30,6 @@ html {
 }
 
 .banner-content {
-
+position: relative;
+color: #fff;
 }
